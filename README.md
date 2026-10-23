@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>I'm <a href="http://viniciusbsarmento.com" target="_blank">Vinícius</a>, Full Stack Developer with almost 4 years of experience in JS, PHP and CSS Frameworks building responsive web applications in the e-commerce industry.</p>
+<p>Senior Full Stack Software Engineer and Technology Consultant with 6+ years of experience building scalable web applications.</p>
 <br />
 <hr />
 <div>
